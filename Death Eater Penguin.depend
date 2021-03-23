@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1589531599 source:c:\users\dhananjay puranik\pictures\game\death eater penguin\death eater penguin\icon.rc
+
+1589535456 source:c:\users\dhananjay puranik\pictures\game\death eater penguin\death eater penguin\main.cpp
+	<iostream>
+	"SFML/Graphics.hpp"
+	"SFML/System.hpp"
+	"SFML/Window.hpp"
+	"SFML/Audio.hpp"
+	<stdlib.h>
+	<vector>
+	<math.h>
+	<time.h>
+	<sstream>
+
